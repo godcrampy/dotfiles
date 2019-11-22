@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/godcrampy/Code/Tutorials/js-the-weird-parts'
+let g:netrw_dirhist_2='/home/godcrampy/Code/Tutorials/js-the-weird-parts/1-Executional-contexts-and-lexical-environment'
+let g:netrw_dirhist_3='/home/godcrampy/Code/Tutorials/js-the-weird-parts'
+let g:netrw_dirhist_4='/home/godcrampy/Code/Tutorials/js-the-weird-parts/1-Executional-contexts-and-lexical-environment'
