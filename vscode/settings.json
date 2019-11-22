@@ -1,0 +1,84 @@
+{
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[javascript]": {
+        // "editor.defaultFormatter": "vscode.typescript-language-features"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "vetur.format.defaultFormatter.html": "prettier",
+    "vetur.format.options.tabSize": 2,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // "prettier.eslintIntegration": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "python.jediEnabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.fontSize": 16,
+    "prettier.useTabs": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.tabSize": 2,
+    "vsicons.dontShowNewVersionMessage": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "material-icon-theme.saturation": 0,
+    "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-icons",
+    // "editor.fontFamily": "'monospace', 'Droid Sans Fallback', monospace, 'Droid Sans Mono'",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "dart.flutterSdkPath": "/home/godcrampy/Source/flutter",
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "cSpell.userWords": [
+        "Aemie",
+        "GSOC",
+        "Patil",
+        "SPOJ",
+        "binded",
+        "cli's",
+        "gmail",
+        "godcrampy",
+        "noobs",
+        "repos",
+        "sahil",
+        "sahilbondre",
+        "symlink"
+    ],
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "css.completion.completePropertyWithSemicolon": false,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0 }",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.startupEditor": "welcomePage"
+    // Turn off suggestions
+    // "editor.quickSuggestions": false,
+    // "editor.suggestOnTriggerCharacters": false,
+    // "editor.wordBasedSuggestions": false,
+    // "editor.quickSuggestionsDelay": 1000000,
+    // "liveServer.settings.donotVerifyTags": true
+}
