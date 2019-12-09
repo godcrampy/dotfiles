@@ -103,6 +103,7 @@ path+=('/home/godcrampy/Android/Sdk/tools')
 path+=('/home/godcrampy/Android/Sdk/tools/bin')
 path+=('/home/godcrampy/Android/Sdk/platform-tools')
 path+=('/home/godcrampy/.local/bin')
+path+=('/usr/local/go/bin')
 
 export NVM_DIR="$HOME/.nvm"
 export TERM=xterm-256color
